@@ -53,5 +53,5 @@
   
 #### One person Toy Project
 - <a href ="https://github.com/SuHoTan/JSP_Web_TheReview"> TheReview - JSP Website </a> <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=JSP&logoColor=white"/>   <img src="https://img.shields.io/badge/MYSQL-0095D5?style=flat-square&logo=MySQL&logoColor=white"/>
-- <a href ="https://github.com/SuHoTan/AI_Stock_ClassiFierr"> Stock Multi Classifier - AI </a>   <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-E8E8E8?style=flat-square&logo=Keras%20Cordova&logoColor=black"/>
+- <a href ="https://github.com/SuHoTan/AI_Stock_ClassiFier"> Stock Multi Classifier - AI </a>   <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-E8E8E8?style=flat-square&logo=Keras%20Cordova&logoColor=black"/>
   
