@@ -40,7 +40,7 @@
 </p>
 
 
-- I'm currently wokring on SpringBoot, Spring Data JPA for REST API
+- I'm currently wokring on SpringBoot, Spring Data JPA Project for Backend REST API
 
 #### Projects
 
