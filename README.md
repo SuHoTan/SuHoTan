@@ -25,7 +25,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Python-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JSP-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSP-000000?style=flat-square&logo=Swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-0095D5?style=flat-square&logo=Swift&logoColor=white"/>
 </p>
 
@@ -33,6 +33,7 @@
 <p>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Subversion-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
 
