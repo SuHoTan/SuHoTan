@@ -5,7 +5,7 @@
 <p>
   Hello 👋 I'm currently looking for a job. <br>
   
-  I'm very interested in Java, Spring, and artificial intelligence Using python.<br>
+  I'm interested in Spring boot, JPA, REST API, IOT, artificial intelligence Using python.<br>
   I want to be a backend developer.<br>
   
   My hobby is astronomical observation  🚀, making a smart home using IOT, enjoing VR contents <br>
