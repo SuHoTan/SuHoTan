@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Java-61DAFB?style=flat-square&logo=Java&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-02569B?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-E8E8E8?style=flat-square&logo=Keras%20Cordova&logoColor=black"/>
-  <img src="https://img.shields.io/badge/AWS-683D87?style=flat-square&logo=AWS%20Cordova&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-683D87?style=flat-square&logo=Amazon AWS%20Cordova&logoColor=black"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-0095D5?style=flat-square&logo=Java&logoColor=white"/> 
@@ -32,7 +32,7 @@
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-B7178C?style=flat-square&logo=IntelliJ&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ IDEA-B7178C?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse IDE-FFCA28?style=flat-square&logo=Eclipse IDE&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-FFCA28?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
