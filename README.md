@@ -39,17 +39,19 @@
   <img src="https://img.shields.io/badge/Subversion-683D87?style=flat-square&logo=Subversion&logoColor=white"/>
 </p>
 
+
 - I'm currently wokring on SpringBoot, SPring Data JPA for REST API
 
 #### Projects
 
-<Team Project>
+##### Team Project
   
-- <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend </a>
+- <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend </a> <img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-683D87?style=flat-square&logo=AmazonAWS%20Cordova&logoColor=black"/>  <img src="https://img.shields.io/badge/MYSQL-0095D5?style=flat-square&logo=MySQL&logoColor=white"/>    <img src="https://img.shields.io/badge/Vue.js-3DDC84?style=flat-square&logo=Vue.js&logoColor=white"/>
 - <a href ="https://github.com/TH-Project/SeoulTour"> SeoulTour </a>
 - <a href ="https://github.com/SuHoTan/OCR-Food-Additives-Analyzer"> OCR-Food-Additives-Analyzer </a>
+- <a href ="https://github.com/SuHoTan/Smart-safety-helmet"> Smart-safety-helmet </a>
   
- <Toy Project>
+#### Toy Project
 - <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend </a>
 - <a href ="https://github.com/TH-Project/SeoulTour"> SeoulTour </a>
   
