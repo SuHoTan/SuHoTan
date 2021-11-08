@@ -37,5 +37,19 @@
   <img src="https://img.shields.io/badge/Linux-FFCA28?style=flat-square&logo=Linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Subversion-683D87?style=flat-square&logo=Subversion&logoColor=white"/>
-
 </p>
+
+- I'm currently wokring on SpringBoot, SPring Data JPA for REST API
+
+#### Projects
+
+<Team Project>
+  
+- <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend </a>
+- <a href ="https://github.com/TH-Project/SeoulTour"> SeoulTour </a>
+- <a href ="https://github.com/SuHoTan/OCR-Food-Additives-Analyzer"> OCR-Food-Additives-Analyzer </a>
+  
+ <Toy Project>
+- <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend </a>
+- <a href ="https://github.com/TH-Project/SeoulTour"> SeoulTour </a>
+  
