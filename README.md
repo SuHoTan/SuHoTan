@@ -3,11 +3,8 @@
 </p>
 
 <p>
-  Hello 👋 I'm currently looking for a job. <br>
   
   I'm interested in Spring boot, JPA, REST API, IOT, artificial intelligence Using python.<br>
-  I want to be a backend developer.<br>
-  
   My hobby is observing the night sky, making a smart home using IOT, enjoing VR contents <br>
   I want to make others happy through development.
 </p>
