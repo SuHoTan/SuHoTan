@@ -1,9 +1,5 @@
 <p>
-  <a href="mailto:tansuho77@gmail.com" target="_blank"><img src="https://img.shields.io/badge/tansuho77@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
-
-<p>
-  백엔드 개발자를 지향하는 개발자입니다..<br>
+  백엔드 개발자를 지향하는 개발자입니다.<br>
   아직 많이 부족하지만, 기록을 남기고 성장하는 과정으로 삼고 있습니다.
 </p>
 
