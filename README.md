@@ -3,14 +3,14 @@
 </p>
 
 <p>
-  백엔드 개발을 배우며 진행했던 학부 시절 프로젝트들을 정리해두었습니다.<br>
+  백엔드 개발자를 지향하는 개발자입니다..<br>
   아직 많이 부족하지만, 기록을 남기고 성장하는 과정으로 삼고 있습니다.
 </p>
 
 
 ---
 
-#### 📌 학부생 시절 프로젝트
+#### 📌 컴공 학부생 시절 프로젝트
 
 ##### Team Project
 - <a href ="https://github.com/TH-Project/3s1cBackend"> 3s1cBackend - REST API </a> <img src="https://img.shields.io/badge/Spring Boot-000000?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-683D87?style=flat-square&logo=AmazonAWS%20Cordova&logoColor=black"/>  <img src="https://img.shields.io/badge/MYSQL-0095D5?style=flat-square&logo=MySQL&logoColor=white"/>    <img src="https://img.shields.io/badge/Vue.js-3DDC84?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-E8E8E8?style=flat-square&logo=Keras%20Cordova&logoColor=black"/>  <img src="https://img.shields.io/badge/Linux-FFCA28?style=flat-square&logo=Linux&logoColor=black"/>
